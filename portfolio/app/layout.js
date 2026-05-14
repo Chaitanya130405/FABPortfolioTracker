@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "hi ra bittu",
+  title: "SPI Tracker",
 };
 
 export default function RootLayout({ children }) {
