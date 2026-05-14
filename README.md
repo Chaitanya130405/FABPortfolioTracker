@@ -134,3 +134,9 @@ JWT_SECRET=your-secret-key
 
 - The backend keeps a compatibility wrapper at `SPI-TRACKER/server.js` for older startup commands.
 - The database is SQLite-based, so table recreation can be done locally without a hosted database service.
+
+
+
+<img width="1904" height="935" alt="Screenshot 2026-05-14 101858" src="https://github.com/user-attachments/assets/2a82f743-3ce9-4efe-9c30-49aacca0d12c" />
+<img width="1903" height="935" alt="Screenshot 2026-05-13 153004" src="https://github.com/user-attachments/assets/b47972b2-7afd-49d8-a7b0-6f4bb1d2f343" />
+
