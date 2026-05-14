@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "SPI Tracker",
+  title: "SIP Tracker",
 };
 
 export default function RootLayout({ children }) {
